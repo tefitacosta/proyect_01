@@ -1,0 +1,6 @@
+hola, hay un proceso que es necesario dar paso a pasa para l contro de versiones.
+ 1. Git status
+ 2. git add . 
+ 3. git commit -m "con el comentario aplicado"
+ 4. git pull : verificar siempre
+ 5 git push 
